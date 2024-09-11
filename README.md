@@ -9,7 +9,7 @@ conda create -n entorno python=3.9
 2) activate the enviromment
 
 ```bash
-conda actívate entorno6
+conda actívate entorno
 ```
 
 3) Clone the data reduction repository: SurveyGreenAI and follow the installation steps (https://github.com/Cimagroup/SurveyGreenAI.git). The final installation step takes a few minutes.
