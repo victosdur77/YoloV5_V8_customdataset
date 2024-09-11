@@ -25,3 +25,5 @@ pip install -r requerimentsWindows.txt
 ```
 
 5) Let's play
+
+If you have any problem with train yolov8 due to the settings.yaml, you have to open it and correct the datasets_dir to the yolov8 folder. Remember that you have to create a yolov5 and yolov8 folder to save the results of each model in his specific folder
