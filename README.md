@@ -21,7 +21,7 @@ git clone https://github.com/Cimagroup/SurveyGreenAI.git
 4) Install python dependecies needed
 
 ```bash
-pip install -r requerimentsWindows.txt
+pip install -r requeriments.txt
 ```
 
 5) Let's play
